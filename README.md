@@ -43,6 +43,8 @@ Features include:
 
 ---
 
+## Exploratory Data Analysis
+---
 ## Technologies Used
 
 - R
@@ -55,15 +57,14 @@ Features include:
 ---
 
 ## Results
+![Model Performance](model_performance.png.png)
 
-The model successfully predicts career advancement based on employee characteristics.
+### Key Findings
 
-Evaluation metrics include:
-
-- Accuracy
-- Precision
-- Recall
-- F1-score
+- Logistic Regression achieved **80% Accuracy** and **0.80 F1 Score**.
+- SVM (Linear) also achieved **80% Accuracy** and **0.80 F1 Score**.
+- Random Forest achieved **73.6% Accuracy** and **0.735 F1 Score**.
+- Logistic Regression was selected for deployment due to its strong performance and interpretability.
 
 ---
 
