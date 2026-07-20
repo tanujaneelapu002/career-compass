@@ -39,32 +39,7 @@ Features include:
 ---
 
 ## Machine Learning Pipeline
-
-Data Collection
-
-↓
-
-Data Cleaning
-
-↓
-
-Feature Engineering
-
-↓
-
-Train/Test Split
-
-↓
-
-Random Forest Model
-
-↓
-
-Model Evaluation
-
-↓
-
-Prediction
+![Methodology Pipeline](methodology_pipeline.png.png)
 
 ---
 
