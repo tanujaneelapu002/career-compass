@@ -95,19 +95,13 @@ An interactive R Shiny web application was developed to provide real-time career
 
 The Home tab allows users to enter employee information such as age, education level, years of experience, skills, and preferred industry.
 
-![Home Screen](shiny_home.png)
-
 ### Prediction Screen
 
 The Predict tab processes the user inputs through the trained machine learning model and generates career advancement predictions along with supporting visualizations.
 
-![Prediction Screen](prediction_screen.png)
-
 ### Prediction Output
 
 The application displays the predicted career advancement outcome and provides personalized insights based on the entered information.
-
-![Prediction Output](prediction_output.png)
 
 ---
 
